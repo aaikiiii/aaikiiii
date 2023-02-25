@@ -1,12 +1,11 @@
-### Muhammad Rizki 👋
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmad Alfarizki
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Rizki
 =======================================================================================================================================
 
 Web Developer
 -------------
 
-*   🖥️  See my portfolio at [My Portfolio Website](http://madfariz.my.id/)
-*   ✉️  You can contact me at [ahmfariz24@gmail.com](mailto:ahmfariz24@gmail.com)
+<!-- *   🖥️  See my portfolio at [My Portfolio Website](http://madfariz.my.id/) -->
+<!-- *   ✉️  You can contact me at [ahmfariz24@gmail.com](mailto:ahmfariz24@gmail.com) -->
 
 ### Skills 
 
